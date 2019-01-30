@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PHP ≤‚ ‘</title>
+  <title>XXX</title>
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?>
